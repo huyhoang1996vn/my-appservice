@@ -33,6 +33,13 @@ https://learn.microsoft.com/en-us/azure/app-service/resources-kudu
 <img width="1386" alt="image" src="https://user-images.githubusercontent.com/29280957/198688033-96c0bb1b-de8e-4dde-bf7d-2e3e1bd5391a.png">
 
 
+## Log in account storage
+
+![image](https://user-images.githubusercontent.com/29280957/209083819-cccdbd62-30a1-41fa-abfa-df55aa48f4ff.png)
+
+![image](https://user-images.githubusercontent.com/29280957/209083950-3b7b26b2-8129-4586-8b11-35d114c428fb.png)
+
+
 
 # Console 
 
