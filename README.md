@@ -60,6 +60,14 @@ az webapp ssh --name stevetesting2022 --resource-group stevetesting2022_group
 
 <img width="1338" alt="image" src="https://user-images.githubusercontent.com/29280957/198696899-d0ad6dd9-83ea-49da-9b88-ec3495d80c76.png">
 
+# Key Vault 
+- Protect configuration. Require permission to get value in key vault
+https://learn.microsoft.com/en-us/azure/key-vault/secrets/quick-create-node
+https://github.com/Azure-Samples/key-vault-node-getting-started
+
+
+
+
 
 
 
